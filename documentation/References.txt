@@ -1,0 +1,9 @@
+1. MEGA Documentation httpswww.megasoftware.net
+2. Clustal Omega Guide httpswww.ebi.ac.ukToolsmsaclustalo
+3. IQ-TREE Manual httpwww.iqtree.org
+4. GenBank Database httpswww.ncbi.nlm.nih.govgenbank
+5. WHO Fact Sheet on Ebola Virus Disease httpwww.who.intmediacentrefactsheetsfs103en
+6. Ebola Genome Browser httpsbioinformatics.sandia.govebola
+7. NCBI Ebola Virus Variation Resource httpswww.ncbi.nlm.nih.govgenomevirusesvariationebola
+8. NPR Article on Ebola Mortality Rates httpwww.npr.org20141023358363535why-do-ebola-mortality-rates-vary-so-widely
+9. Science Alert on 2014 Ebola Outbreak Origin httpwww.sciencealert.comorigin-of-2014-ebola-outbreak-traced-to-kids-favourite-hollowed-tree
